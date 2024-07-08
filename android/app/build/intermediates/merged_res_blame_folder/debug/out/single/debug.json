@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sqlitedemo.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.sqlitedemo.app-main-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-main-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sqlitedemo.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.sqlitedemo.app-main-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-main-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sqlitedemo.app-merged_res-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.sqlitedemo.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-merged_res-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-merged_res-40:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-main-42:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-merged_res-40:/layout_launch_screen.xml.flat",
+        "source": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-main-42:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sqlitedemo.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.sqlitedemo.app-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sqlitedemo.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.sqlitedemo.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sqlitedemo.app-merged_res-40:/drawable_launch_screen.png.flat",
+        "source": "com.sqlitedemo.app-main-42:/drawable/launch_screen.png"
+    },
+    {
+        "merged": "com.sqlitedemo.app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.sqlitedemo.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sqlitedemo.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.sqlitedemo.app-main-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sqlitedemo.app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.sqlitedemo.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.sqlitedemo.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.sqlitedemo.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-merged_res-40:/drawable_launch_screen.png.flat",
+        "source": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-main-42:/drawable/launch_screen.png"
+    },
+    {
+        "merged": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/sachin/.gradle/daemon/8.0.1/com.sqlitedemo.app-main-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sqlitedemo.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.sqlitedemo.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

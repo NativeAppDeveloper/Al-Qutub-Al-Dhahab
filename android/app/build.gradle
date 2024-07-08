@@ -74,9 +74,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.huk_n_buk_partner"
+    namespace "com.sqlitedemo"
     defaultConfig {
-        applicationId "com.huk_n_buk_partner"
+        applicationId "com.sqlitedemo"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

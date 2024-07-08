@@ -14,34 +14,20 @@ import {
 import React, {useEffect, useRef, useState} from 'react';
 import {NavigationContainer, useFocusEffect} from '@react-navigation/native';
 import MainRoutes from './src/routes/MainRoutes';
-import Onboarding from './src/screens/onboarding/Onboarding';
 import AuthRoutes from './src/routes/AuthRoutes';
 import {useSelector} from 'react-redux';
 import SplashScreen from 'react-native-splash-screen';
-import Loader from './src/component/modal/Loader';
-import {requestLocationPermission} from './src/utils/Permssion';
 
 export default function App() {
   const {stackName} = useSelector(state => state.ChangeStackReducer);
-  const [modalVisible, setModalVisible] = useState(false);
-  const [active, setActive] = useState(null);
-  const {modalStatus} = useSelector(state => state.modalReducer);
-
-  const carouselData = [
-    {id: 1, text: 'Item 1'},
-    {id: 2, text: 'Item 2'},
-    {id: 3, text: 'Item 3'},
-  ];
 
   useEffect(() => {
     SplashScreen.hide();
-    requestLocationPermission();
   }, []);
 
   LogBox.ignoreAllLogs();
 
  
-
   return (
     <>
       <StatusBar
@@ -51,10 +37,7 @@ export default function App() {
       />
       <NavigationContainer>
         {stackName == 'MAIN' && <MainRoutes />}
-        {stackName == 'ONBOARDING' && <Onboarding />}
         {stackName == 'AUTH' && <AuthRoutes />}
-        {/* {modalStatus&&} */}
-        {modalStatus && <Loader />}
       </NavigationContainer>
     </>
   );

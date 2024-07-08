@@ -1,5 +1,5 @@
 const initialData={
-    stackName:'ONBOARDING'
+    stackName:'AUTH'
 }
 
 export const ChangeStackReducer=((state=initialData,action)=>{

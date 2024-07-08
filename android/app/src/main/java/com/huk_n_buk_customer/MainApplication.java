@@ -1,4 +1,4 @@
-package com.huk_n_buk_partner;
+package com.sqlitedemo;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
